@@ -1,4 +1,4 @@
-responisve layout challenge 3
+responsive layout flex-box challenge-1
 
 ## Table of contents
 
