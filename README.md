@@ -86,6 +86,7 @@ padding: 80px 0;
 I add width of 100% to the col element this will make these three child elements to have equal width no matter of their content inside them.
 
 ```
+css
 .col {
   width: 100%;
 }
@@ -93,14 +94,11 @@ I add width of 100% to the col element this will make these three child elements
 
 I select the h1 and p element inside the row element and add the property of text-align to them their content will be centered.
 ```
-
 .row h2,
 .row p {
 text-align: center;
 }
-
 ```
-
 I add row-1 to the row element this helps to select the h1 and p elements which is found only in this specific element .
 
 ```
@@ -292,3 +290,6 @@ i want to focus on responsive design,flexbox , grid.
 - frontendmentor - [@aemrobe](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Aemro112](https://www.twitter.com/yourusername)
 - freecodecamp - [@aemro11](https://www.freecodecamp.org/fcca3ca9e2b-f172-41a6-a671-68f137231a2d)
+
+
+
