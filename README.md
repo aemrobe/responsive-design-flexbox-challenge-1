@@ -90,7 +90,7 @@ css
 .col {
   width: 100%;
 }
-``
+```
 
 I select the h1 and p element inside the row element and add the property of text-align to them their content will be centered.
 
