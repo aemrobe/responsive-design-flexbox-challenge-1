@@ -93,19 +93,23 @@ css
 ``
 
 I select the h1 and p element inside the row element and add the property of text-align to them their content will be centered.
+
 ```
 .row h2,
 .row p {
 text-align: center;
 }
 ```
+
 I add row-1 to the row element this helps to select the h1 and p elements which is found only in this specific element .
+
 
 ```
 .row-1 h2 {
 color: #87629a;
 }
 ```
+
 then I add second row which is the same as the first one and I add the row-2 class to it  .
 
      ```
@@ -146,8 +150,7 @@ then I add second row which is the same as the first one and I add the row-2 cla
                         magna aliqua. Ut enim ad minim veniam.</p>
                 </div>
             </div>
-
-````
+```
 
 then I select the h2 and p element inside this row-2 element to change their color.
 
