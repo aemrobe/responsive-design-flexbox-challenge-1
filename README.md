@@ -112,7 +112,7 @@ color: #87629a;
 
 then I add second row which is the same as the first one and I add the row-2 class to it  .
 
-     ```
+ ```
     HTML
            <!--First row element-->
             <div class=" row row-1">
@@ -150,7 +150,7 @@ then I add second row which is the same as the first one and I add the row-2 cla
                         magna aliqua. Ut enim ad minim veniam.</p>
                 </div>
             </div>
-```
+ ```
 
 then I select the h2 and p element inside this row-2 element to change their color.
 
