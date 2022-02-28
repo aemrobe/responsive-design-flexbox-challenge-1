@@ -280,7 +280,7 @@ css
 
 ### What I learned
 
-in this section I learn about that adding the width of 100% will make the flex-items to have equal width inside their flex-container no-matter how much content inside them.
+in this section I learn about that adding the width of 100% to the flex-items will make the flex-items to have equal width inside their flex-container no-matter how much content inside them.
 
 ### Continued development
 
