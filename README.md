@@ -102,12 +102,10 @@ text-align: center;
 I add row-1 to the row element this helps to select the h1 and p elements which is found only in this specific element .
 
 ```
-
 .row-1 h2 {
 color: #87629a;
 }
-
-````
+```
 then I add second row which is the same as the first one and I add the row-2 class to it  .
 
      ```
@@ -290,6 +288,7 @@ i want to focus on responsive design,flexbox , grid.
 - frontendmentor - [@aemrobe](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Aemro112](https://www.twitter.com/yourusername)
 - freecodecamp - [@aemro11](https://www.freecodecamp.org/fcca3ca9e2b-f172-41a6-a671-68f137231a2d)
+
 
 
 
