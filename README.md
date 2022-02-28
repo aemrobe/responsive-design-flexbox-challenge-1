@@ -92,7 +92,7 @@ css
 }
 ```
 
-I select the h1 and p element inside the row element and add the property of text-align to them their content will be centered.
+I select the h1 and p element inside the row element and add the property of text-align to them and their content will be centered.
 
 ```
 .row h2,
