@@ -27,7 +27,7 @@ solution image/flexbox challenge-1.png
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [ here](https://aemrobe.github.io/responsive-design-flexbox-challenge-1./)
 
 ## My process
 
