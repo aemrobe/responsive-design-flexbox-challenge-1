@@ -101,7 +101,7 @@ text-align: center;
 }
 ```
 
-I add row-1 to the row element this helps to select the h1 and p elements which is found only in this specific element .
+I add a class of row-1 to the element with a class of row this helps to select the h1 and p elements which is found only in this specific element .
 
 
 ```
